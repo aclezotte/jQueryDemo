@@ -1,0 +1,14 @@
+.photo {
+    float: right;
+    border: 5px solid dodgerblue;
+}
+
+img {
+    display: block;
+}
+
+a {
+    display: block;
+    width: 100px;
+    margin: 2% auto;
+}
